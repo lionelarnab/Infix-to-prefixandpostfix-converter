@@ -1,0 +1,27 @@
+*{
+        margin: 0;
+        padding: 0;
+    }
+
+.head h2{
+        font-weight: 800;
+        font-size: 32px;
+}
+.container{
+    width: 60%;
+    height: 320px;
+}
+.container #Label_id{
+    font-size: 27px;
+    font-weight: 600;
+}
+.container #Label_id_para{
+    font-size: 22px;
+}
+#exp{
+    width: 65%;
+}
+#result, #result1{
+    font-weight: 600;
+    font-size: 24px;
+}

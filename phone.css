@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.head h2{
+    font-weight: 800;
+    font-size: 23px;
+}
+.container{
+    width: 100%;
+    height: 380px;
+    padding:20px;
+}
+.container #Label_id{
+    font-size: 20px;
+    font-weight: 600;
+}
+.container #Label_id_para{
+    font-size: 16px;
+}
+#exp{
+    width: 80%;
+}
+#result, #result1{
+    font-weight: 600;
+    font-size: 23px;
+}
+#submit{
+    width: 22%;
+}
+#Author{
+    margin-top: 110px;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head h2{
+    font-weight: 800;
+    font-size: 34px;
+}
+.container{
+    width: 55%;
+    height: 310px;
+}
+.container #Label_id{
+    font-size: 29px;
+    font-weight: 600;
+}
+.container #Label_id_para{
+    font-size: 22px;
+}
+#result, #result1{
+    font-weight: 600;
+    font-size: 24px;
+}

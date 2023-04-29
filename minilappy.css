@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+.container{
+    width: 80%;
+    height: 350px;
+}
+.container #Label_id{
+    font-size: 24px;
+    font-weight: 600;
+}
+.container #Label_id_para{
+    font-size: 20px;
+}
+#exp{
+    width: 70%;
+}
+#submit{
+    width: 20%;
+}
+#result, #result1{
+    font-weight: 600;
+    font-size: 20px;
+}
+#Author{
+    margin-top: 110px;
+}
